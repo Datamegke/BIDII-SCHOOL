@@ -24,8 +24,8 @@ This project used data extracted from the performance of BIDII-SCHOOL students i
 11. Agriculture
 
 ## Challenges 
-Cleaning and organizing students data
-uploading project files to github
+- Cleaning and organizing students data
+- Uploading project files to github
 
 ## Collaborators 
 Mary Margaret
