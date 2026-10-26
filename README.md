@@ -1,4 +1,5 @@
 **#BIDII-SCHOOL**
+
 **##Project Description**
 This project shows the students performance at BIDII-SCHOOL. It calculates the total marks scored by students against the mean,mode,
 max and min per subject. It as displays the remarks of whether the students passed or failed based on the passmark.
