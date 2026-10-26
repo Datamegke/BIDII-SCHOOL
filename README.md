@@ -1,14 +1,14 @@
-**#BIDII-SCHOOL**
+**# BIDII-SCHOOL**
 
-**##Project Description**
+**## Project Description **
 This project shows the students performance at BIDII-SCHOOL. It calculates the total marks scored by students against the mean,mode,
 max and min per subject. It as displays the remarks of whether the students passed or failed based on the passmark.
 
-**##Technologies Used**
+**## Technologies Used **
 Excel
 Github
 
-**##Dataset Used**
+**## Dataset Used **
 This project used data extracted from the performance of BIDII-SCHOOL students in the following 11 subjects:
 1.Maths
 2.English
@@ -22,14 +22,14 @@ This project used data extracted from the performance of BIDII-SCHOOL students i
 10.Homescience
 11.Agriculture
 
-**##Challenges**
+**## Challenges **
 Cleaning and organizing students data
 uploading project files to github
 
-**##Collaborators**
+**## Collaborators **
 Mary Margaret
 
-**##License**
+**## License **
 MIT Licensing has been applied to this project
 
 -
