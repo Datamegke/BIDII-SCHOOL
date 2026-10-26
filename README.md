@@ -32,9 +32,9 @@ This project used data extracted from the performance of BIDII-SCHOOL students i
   - The highest maximum mark scored across the subjects is 98%
   - There is no correlation between the mean and the mode
   - Most of the students are doing averagely well with a few of them below the pass-mark and very few at the top
-  - 
-    
-    <img width="478" height="308" alt="Screenshot 2026-10-26 143101" src="https://github.com/user-attachments/assets/d8e4a798-b1c0-48bf-9e38-d8e7e1a9013a" />
+  
+
+<img width="478" height="308" alt="Screenshot 2026-10-26 143101" src="https://github.com/user-attachments/assets/d8e4a798-b1c0-48bf-9e38-d8e7e1a9013a" />
     
 
 <img width="473" height="333" alt="Screenshot 2026-10-26 142752" src="https://github.com/user-attachments/assets/4ef88322-0715-4ad7-abda-54535b82ff51" />
