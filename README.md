@@ -11,17 +11,17 @@ max and min per subject. It as displays the remarks of whether the students pass
 
 ## Dataset Used 
 This project used data extracted from the performance of BIDII-SCHOOL students in the following 11 subjects:
-1.Maths
-2.English
-3.Kiswahili
-4.Biology
-5.Chemistry
-6.History
-7.CRE
-8.Geography
-9.Computer
-10.Homescience
-11.Agriculture
+1. Maths
+2. English
+3. Kiswahili
+4. Biology
+5. Chemistry
+6. History
+7. CRE
+8. Geography
+9. Computer
+10. Homescience
+11. Agriculture
 
 ## Challenges 
 Cleaning and organizing students data
