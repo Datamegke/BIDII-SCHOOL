@@ -26,6 +26,7 @@ This project used data extracted from the performance of BIDII-SCHOOL students i
 ## Challenges 
 - Cleaning and organizing students data
 - Uploading project files to github
+- Limited data sources
 
   ## Findings
   - The best performed subject is Kiswahili
